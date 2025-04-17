@@ -8,11 +8,11 @@
 
 - Tutorial on spatial data and exploring data in QGIS
 
-- Tutorial on finding and using census data for making maps and socio-demographic analysis of cities
+- Tutorial on finding and analyzing census data for demographic / socio-economic analysis and research
     
 - Cartography & Data Visualization short presentation and discussion
 
-- Tutorial on creating choropleth maps and proportional maps in QGIS
+- Tutorial on creating choropleth maps and proportional symbol maps in QGIS
 
 - Tutorial on querying, downloading, and mapping OpenStreetMap data
 
